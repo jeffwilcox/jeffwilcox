@@ -3,11 +3,9 @@
 - 💻 Geek
 - 🏙 Belltown, Seattle, WA
 
-## Blog
+<!--
 
-https://jeffwilcox.blog
-
-## I work on the Open Source Office at Microsoft
+## I work in the Open Source Office at Microsoft
 
 ### GitHub at Scale
 
@@ -30,7 +28,7 @@ sponsor through GitHub Sponsors.
 - Electric vehicles
 - Travel (pre-pandemic interest)
 - City living
-
+-->
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
