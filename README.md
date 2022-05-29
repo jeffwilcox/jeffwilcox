@@ -33,7 +33,7 @@ these important non-profits personally on an annual basis:
 - [Free Software Foundation](https://www.fsf.org/)
 - [Apache Software Foundation](https://www.apache.org)
 - [Wikimedia Foundation](https://wikimediafoundation.org)
-- [Electronic Frontier Foundation)[https://www.eff.org)
+- [Electronic Frontier Foundation)(https://www.eff.org)
 
 _I also support many initiatives that I believe about relating to housing
 affordability, regional charities in the greater Seattle, Washington area,
