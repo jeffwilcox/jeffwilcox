@@ -2,7 +2,9 @@
 - 🏙 Location: Belltown, Seattle, WA
 - 📫 How to reach me: jwilcox at microsoft dot com for corporate purposes or jeffwilcox at gmail dot com
 - 😄 Pronouns: he/him
-
+- ![Twitter](https://img.shields.io/twitter/follow/jeffwilcox?style=social)
+- [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/jeffreywilcox/)
+   
 # Hi, I'm Jeff
 
 I lead **Microsoft's Open Source Programs Office**. My team partners with experts
