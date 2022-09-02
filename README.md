@@ -23,6 +23,10 @@ building healthy communities.
 - Find out [how to get involved](https://opensource.microsoft.com/collaborate/)
 - Microsoft has [jobs focused on open source, apply today](https://careers.microsoft.com/us/en/search-results?keywords=open%20source)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffwilcox&show_icons=true&count_private=true" />
+</a>
+
 ## Supporting the open source ecosystem
 
 I care deeply about open source, licensing, and digital freedom. I proudly support
