@@ -47,7 +47,7 @@ and more._
 
 ## GitHub at Scale
 
-Staring in 2011, I was a part of the team that started Microsoft's journey to releasing
+Starting in 2011, I was a part of the team that started Microsoft's journey to releasing
 open source on GitHub, and ever since, it's been a blast helping teams at Microsoft use,
 contribute to, and release open source at scale.
 
