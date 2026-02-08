@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jeff Wilcox's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 329, Total Commits  (last year) : 611, Total PRs: 321, Total Issues: 182, Contributed to (last year): 10</desc>
+        <desc id="descId">Total Stars Earned: 328, Total Commits  (last year) : 611, Total PRs: 321, Total Issues: 182, Contributed to (last year): 10</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 19.91656445527331;
+        stroke-dashoffset: 19.945803124318736;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >329</text>
+      >328</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
